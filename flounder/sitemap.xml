@@ -3,21 +3,6 @@
 
 <!-- posts -->
 
-<url>
-    <loc>http://docs.automotivelinux.org/2016/07/02/markdown-tuto.html</loc>
-</url>
-
-
-<url>
-    <loc>http://docs.automotivelinux.org/blog/2016/01/10/security-white-paper.html</loc>
-</url>
-
-
-<url>
-    <loc>http://docs.automotivelinux.org/blog/2016/01/01/sample-test-blog.html</loc>
-</url>
-
-
 
 <!-- pages -->
 
@@ -42,7 +27,7 @@
     
 
     <url>
-    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/xds/part-2/0_Abstract.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/xds/part-1/0_Abstract.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -53,7 +38,7 @@
     
 
     <url>
-    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/xds/part-1/0_Abstract.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/xds/part-2/0_Abstract.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -75,18 +60,7 @@
     
 
     <url>
-    <loc>http://docs.automotivelinux.org/docs/architecture/en/dev/reference/security/part-9/0_Abstract.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-</url>
-
-
-    
-    
-    
-
-    <url>
-    <loc>http://docs.automotivelinux.org/docs/architecture/en/dev/reference/security/part-8/0_Abstract.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/architecture/en/dev/reference/security/annexes/0_Abstract.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -108,17 +82,6 @@
     
 
     <url>
-    <loc>http://docs.automotivelinux.org/docs/architecture/en/dev/reference/security/part-6/0_Abstract.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-</url>
-
-
-    
-    
-    
-
-    <url>
     <loc>http://docs.automotivelinux.org/docs/architecture/en/dev/reference/security/part-5/0_Abstract.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -130,29 +93,7 @@
     
 
     <url>
-    <loc>http://docs.automotivelinux.org/docs/architecture/en/dev/reference/security/part-4/0_Abstract.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-</url>
-
-
-    
-    
-    
-
-    <url>
-    <loc>http://docs.automotivelinux.org/docs/architecture/en/dev/reference/security/part-3/0_Abstract.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-</url>
-
-
-    
-    
-    
-
-    <url>
-    <loc>http://docs.automotivelinux.org/docs/architecture/en/dev/reference/security/part-2/0_Abstract.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/architecture/en/dev/reference/security/part-8/0_Abstract.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -174,7 +115,51 @@
     
 
     <url>
-    <loc>http://docs.automotivelinux.org/docs/architecture/en/dev/reference/security/annexes/0_Abstract.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/architecture/en/dev/reference/security/part-6/0_Abstract.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/architecture/en/dev/reference/security/part-3/0_Abstract.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/architecture/en/dev/reference/security/part-4/0_Abstract.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/architecture/en/dev/reference/security/part-2/0_Abstract.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/architecture/en/dev/reference/security/part-9/0_Abstract.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -329,61 +314,6 @@
 
     <url>
     <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/af-main/1-afm-daemons.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-</url>
-
-
-    
-    
-    
-
-    <url>
-    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/sdk-devkit/docs/part-1/1_0_Abstract.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-</url>
-
-
-    
-    
-    
-
-    <url>
-    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/sdk-devkit/docs/part-1/1_1-Deploy_image.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-</url>
-
-
-    
-    
-    
-
-    <url>
-    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/sdk-devkit/docs/part-1/1_2-Setting-up-your_os.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-</url>
-
-
-    
-    
-    
-
-    <url>
-    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/sdk-devkit/docs/part-1/1_4-Inside-the-container.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-</url>
-
-
-    
-    
-    
-
-    <url>
-    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/sdk-devkit/docs/part-1/1_7-SDK-compilation-installation.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -571,50 +501,6 @@
 
     <url>
     <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/af-main/2.2-config.xml.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-</url>
-
-
-    
-    
-    
-
-    <url>
-    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/sdk-devkit/docs/part-2/2_0_Abstract.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-</url>
-
-
-    
-    
-    
-
-    <url>
-    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/sdk-devkit/docs/part-2/2_1-Init-sdk-env.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-</url>
-
-
-    
-    
-    
-
-    <url>
-    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/sdk-devkit/docs/part-2/2_2-Trying-out-template.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-</url>
-
-
-    
-    
-    
-
-    <url>
-    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/sdk-devkit/docs/part-2/2_3-Dev-with-container.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -944,7 +830,7 @@
     
 
     <url>
-    <loc>http://docs.automotivelinux.org/docs/architecture/en/dev/reference/security/part-6/4-Services.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/architecture/en/dev/reference/security/part-5/4-Services.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -955,7 +841,7 @@
     
 
     <url>
-    <loc>http://docs.automotivelinux.org/docs/architecture/en/dev/reference/security/part-5/4-Services.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/architecture/en/dev/reference/security/part-6/4-Services.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -1741,9 +1627,16 @@
     
 
     <url>
-    <loc>http://docs.automotivelinux.org/techpost/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <loc>http://docs.automotivelinux.org/contact/</loc>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/contribute/</loc>
 </url>
 
 
@@ -1753,17 +1646,6 @@
 
     <url>
     <loc>http://docs.automotivelinux.org/docs/hardware/en/dev/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-</url>
-
-
-    
-    
-    
-
-    <url>
-    <loc>http://docs.automotivelinux.org/docs/getting_started/en/dev/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -1807,16 +1689,9 @@
     
 
     <url>
-    <loc>http://docs.automotivelinux.org/contribute/</loc>
-</url>
-
-
-    
-    
-    
-
-    <url>
-    <loc>http://docs.automotivelinux.org/contact/</loc>
+    <loc>http://docs.automotivelinux.org/docs/getting_started/en/dev/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
 </url>
 
 
@@ -1836,7 +1711,7 @@
     
 
     <url>
-    <loc>http://docs.automotivelinux.org/docs/getting_started/en/dev/reference/homescreen/</loc>
+    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/af-binder/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -1847,7 +1722,7 @@
     
 
     <url>
-    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/af-binder/</loc>
+    <loc>http://docs.automotivelinux.org/docs/getting_started/en/dev/reference/homescreen/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
